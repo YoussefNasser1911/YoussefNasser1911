@@ -71,6 +71,9 @@
   <img src="https://komarev.com/ghpvc/?username=YoussefNasser1911&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/youssefnasser/youssefnasser/output/snake.svg)
+
+
 ---
 
 ### ✍️ Dev Quote
