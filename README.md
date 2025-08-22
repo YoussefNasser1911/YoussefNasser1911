@@ -1,18 +1,32 @@
 <h1 align="center">Hi 👋, I'm Youssef Nasser</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%2B%2B+%26+C%23+Programmer;Competitive+Programmer;Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;C%2B%2B+%26+C%23+Programmer;Competitive+Programmer;Always+Learning" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Science Student** at Assiut National University  
+- 🎓 **Computer Science Student (2rd Year, Expected Graduation: 2028)** at Assiut National University  
 - 💻 Passionate about **Backend Development & Problem Solving**  
 - ⚔️ Competitive Programmer on [Codeforces](https://codeforces.com/profile/youssefnasser2006)  
 - 🌱 Currently learning **.NET, C++, and System Design**  
+- 📝 I regularly share insights on **LinkedIn**  
+- 💬 Ask me about **Full Stack Development, Problem Solving, Competitive Programming**  
 - 📫 Reach me at: **youssefnasser1911@gmail.com**  
 - ⚡ Fun fact: *I solve hard problems at midnight 😅*  
+
+---
+
+## 💻 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
 
 ---
 
@@ -44,7 +58,6 @@
 
 ## 🐍 Snake Animation
 <p align="center">
-  <!-- Picture tag shows dark or light snake depending on viewer theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefNasser1911/YoussefNasser1911/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefNasser1911/YoussefNasser1911/output/snake.svg" />
@@ -74,4 +87,8 @@
 ---
 
 ### ✍️ Dev Quote
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson  
+
+**Classic Dev Quote**  
+> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*  
+— Phil Karlton (with a developer twist)  
