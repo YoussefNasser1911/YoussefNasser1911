@@ -8,13 +8,14 @@
 
 ## 🚀 About Me
 - 🎓 **Computer Science Student** at Assiut National University (2rd Year, Expected Graduation: 2028)  
-- 💻 Passionate about **Backend Development & Problem Solving**  
+- 💻 **Passionate about Full Stack Development & Problem Solving**
+- 🧠 **Problem-Solving Enthusiast with strong algorithmic thinking** 
 - ⚔️ Competitive Programmer on [Codeforces](https://codeforces.com/profile/youssefnasser2006)  
 - 🌱 Currently learning **.NET, C++, and System Design**  
 - 📝 I regularly share insights on LinkedIn  
 - 💬 Ask me about **Full Stack Development, Problem Solving, Competitive Programming**  
 - 📫 Reach me at: **youssefnasser1911@gmail.com**  
-- ⚡ Fun fact: *I solve hard problems at midnight 😅*  
+-⚡ Code, compile, conquer — repeat.
 
 ---
 
