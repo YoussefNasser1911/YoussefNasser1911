@@ -11,7 +11,7 @@
 - 💻 Passionate about **Backend Development & Problem Solving**  
 - ⚔️ Competitive Programmer on [Codeforces](https://codeforces.com/profile/youssefnasser2006)  
 - 🌱 Currently learning **.NET, C++, and System Design**  
-- 📫 Reach me at: *(Add your email if you want)*  
+- 📫 Reach me at: **youssefnasser1911@gmail.com**  
 - ⚡ Fun fact: *I solve hard problems at midnight 😅*  
 
 ---
@@ -44,7 +44,12 @@
 
 ## 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YoussefNasser1911/YoussefNasser1911/output/snake.svg" alt="Snake animation" />
+  <!-- Picture tag shows dark or light snake depending on viewer theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/snake.svg" />
+    <img alt="github-snake" src="output/snake.svg" />
+  </picture>
 </p>
 
 ---
