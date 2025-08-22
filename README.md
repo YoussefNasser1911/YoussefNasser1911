@@ -46,9 +46,9 @@
 <p align="center">
   <!-- Picture tag shows dark or light snake depending on viewer theme -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="output/snake.svg" />
-    <img alt="github-snake" src="output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefNasser1911/YoussefNasser1911/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefNasser1911/YoussefNasser1911/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YoussefNasser1911/YoussefNasser1911/output/snake.svg" />
   </picture>
 </p>
 
@@ -70,10 +70,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoussefNasser1911&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-
-## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/youssefnasser/youssefnasser/output/snake.svg)
-
 
 ---
 
