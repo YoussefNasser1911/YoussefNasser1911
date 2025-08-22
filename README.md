@@ -7,25 +7,27 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Science Student (2rd Year, Expected Graduation: 2028)** at Assiut National University  
+- 🎓 **Computer Science Student** at Assiut National University (2rd Year, Expected Graduation: 2028)  
 - 💻 Passionate about **Backend Development & Problem Solving**  
 - ⚔️ Competitive Programmer on [Codeforces](https://codeforces.com/profile/youssefnasser2006)  
 - 🌱 Currently learning **.NET, C++, and System Design**  
-- 📝 I regularly share insights on **LinkedIn**  
+- 📝 I regularly share insights on LinkedIn  
 - 💬 Ask me about **Full Stack Development, Problem Solving, Competitive Programming**  
 - 📫 Reach me at: **youssefnasser1911@gmail.com**  
 - ⚡ Fun fact: *I solve hard problems at midnight 😅*  
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Languages & Tools  
+
+**Languages:**  
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
+</p>
+
+**Development Environment / Tools:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 </p>
 
 ---
@@ -86,9 +88,7 @@
 
 ---
 
-### ✍️ Dev Quote
+### ✍️ Dev Quotes
 > *"First, solve the problem. Then, write the code."* — John Johnson  
 
-**Classic Dev Quote**  
-> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*  
-— Phil Karlton (with a developer twist)  
+> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."* — Phil Karlton (with a developer twist)  
