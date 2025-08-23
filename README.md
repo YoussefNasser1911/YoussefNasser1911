@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Youssef Nasser</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Competitive+Programmer;Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver;Competitive+Programmer;Always+Learning" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at **Assiut National University** (2nd Year, Expected Graduation: 2028)
-- 💻 Passionate about **Full Stack Development & Problem Solving**  
+- 💻 Passionate about **Full-Stack Web Development & Problem Solving**  
 - 🧠 Problem-Solving Enthusiast with **strong algorithmic thinking**  
 - ⚔️ Competitive Programmer on [Codeforces](https://codeforces.com/profile/youssefnasser2006)  
 - 🌱 Currently learning **.NET, C++ & System Design**  
