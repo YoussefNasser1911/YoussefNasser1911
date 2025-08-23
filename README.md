@@ -23,7 +23,7 @@
 
 **Languages:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js" />
 </p>
 
 **Development Environment / Tools:**  
