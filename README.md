@@ -36,8 +36,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefNasser1911
-&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefNasser1911&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
