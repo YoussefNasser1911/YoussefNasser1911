@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Student at **Assiut National University** (2rd Year, Expected Graduation: 2028)  
+- 🎓 Computer Science Student at **Assiut National University** (2nd Year, Expected Graduation: 2028)
 - 💻 Passionate about **Full Stack Development & Problem Solving**  
 - 🧠 Problem-Solving Enthusiast with **strong algorithmic thinking**  
 - ⚔️ Competitive Programmer on [Codeforces](https://codeforces.com/profile/youssefnasser2006)  
