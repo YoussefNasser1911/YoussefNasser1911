@@ -23,12 +23,13 @@
 
 **Languages:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,php,sql" />
 </p>
+
 
 **Development Environment / Tools:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,vscode,visualstudio,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,mysql" />
 </p>
 
 ---
