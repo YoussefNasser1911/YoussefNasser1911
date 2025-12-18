@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Nasser</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver;Competitive+Programmer;Always+Learning" alt="Typing Animation" />
+ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineer;Aspiring+Cyber+Security;Problem+Solver;Competitive+Programmer;Always+Learning" 
+    alt="Typing Animation" 
 </p>
 
 ---
